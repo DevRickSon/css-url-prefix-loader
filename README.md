@@ -1,4 +1,4 @@
-# css-url-loader [![NPM version][npm-image]][npm-url] [![npm module downloads][npm-downloads-image]][npm-downloads-url] [![Dependency Status][depstat-image]][depstat-url] [![License: MIT][license-image]][license-url]
+# css-url-loader
 
 Webpack loader to transform URLs to other URLs in CSS.
 
