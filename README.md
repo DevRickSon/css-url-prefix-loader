@@ -1,4 +1,4 @@
-# css-url-loader
+# css-url-prefix-loader
 
 Webpack loader to transform URLs to other URLs in CSS.
 
