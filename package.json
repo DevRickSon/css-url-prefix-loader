@@ -1,0 +1,26 @@
+{
+  "name": "css-url-prefix-loader",
+  "version": "1.0.0",
+  "description": "replace css background url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevRickSon/css-url-prefix-loader.git"
+  },
+  "keywords": [
+    "css",
+    "background",
+    "background-image",
+    "url",
+    "prefix"
+  ],
+  "author": "DevRickSon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevRickSon/css-url-prefix-loader/issues"
+  },
+  "homepage": "https://github.com/DevRickSon/css-url-prefix-loader#readme"
+}
