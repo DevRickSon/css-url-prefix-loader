@@ -9,6 +9,10 @@ Transform URLs to other URLs in the `url()`s in your CSS.
 ## Install
 
 ```bash
+npm install --save-dev cross-env
+```
+
+```bash
 npm install --save-dev css-url-prefix-loader
 ```
 
@@ -53,4 +57,14 @@ module.exports = {
     new ExtractTextPlugin('bundle.css'),
     ...
   ],
+```
+
+```bash
+cross-env NODE_ENV=dev webpack --config webpack.config.js
+```
+
+Or
+
+```bash
+cross-env NODE_ENV=live webpack --config webpack.config.js
 ```
