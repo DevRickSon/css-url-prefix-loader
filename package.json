@@ -1,6 +1,6 @@
 {
   "name": "css-url-prefix-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "replace css background url",
   "main": "index.js",
   "scripts": {
